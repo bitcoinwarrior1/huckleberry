@@ -10,3 +10,34 @@ body {
 }
 
 /* Add styles here! */
+body {
+  /*text-align: center;*/
+  /*align-content: center;*/
+  margin-left: 250px;
+}
+
+header {
+  padding-bottom: 32px;
+}
+
+strong {
+  color: hsl(160deg, 100%, 30%);
+}
+
+.title {
+  padding-bottom: 32px;
+}
+
+ .max-width-wrapper {
+  border: grey;
+}
+
+.indented-heading {
+  padding: 20px;
+  background-color: hsl(45deg, 100%, 50%);
+  width: fit-content;
+}
+
+.card {
+  width: 50%;
+}
